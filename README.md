@@ -1,9 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
- <div align="center">
-<img src="https://www.springboard.com/blog/wp-content/uploads/2020/07/what-does-a-data-scientist-in-finance-do.png" align="center" height="300" />
-</div>  
+ 
 
 ## <div align="center">Hi👋, I'm Joshua. A self-driven analyst, grateful to gain experience in different industries mixing with finance, business operations and data analytics roles, which taught me to understand finance💰, operate in the business👨‍💼 and act as a data analyst. 🚀</div>  
   
